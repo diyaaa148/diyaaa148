@@ -33,7 +33,7 @@
   🌍 Built interactive dashboards with DAX & time-series tracking for pollution data.
 
 - [HR-Analytics Dashboard](https://github.com/diyaaa148/HR-Analytics)
-  📊  Built interactive dashboards with DAX & for tracking leaves.
+   📊 Built interactive dashboards with DAX & for tracking leaves.
 
 - **IBM SkillsBuild CSRBOX Internship (2024)**  
   📈 Designed predictive models for climate resilience, automated reports (30% efficiency gain).  
