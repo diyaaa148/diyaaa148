@@ -30,7 +30,10 @@
   🔎 Performed EDA on 10,000+ rows, identified customer patterns, and visualized insights.  
 
 - [**Air Quality Analysis Dashboard (Power BI)**](https://github.com/diyaaa148/air-quality-report)  
-  🌍 Built interactive dashboards with DAX & time-series tracking for pollution data.  
+  🌍 Built interactive dashboards with DAX & time-series tracking for pollution data.
+
+- [HR-Analytics Dashboard](https://github.com/diyaaa148/HR-Analytics)
+  📊  Built interactive dashboards with DAX & for tracking leaves.
 
 - **IBM SkillsBuild CSRBOX Internship (2024)**  
   📈 Designed predictive models for climate resilience, automated reports (30% efficiency gain).  
@@ -45,16 +48,7 @@
 
 ---
 
-## 📊 GitHub Stats  
 
-<p align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=diyaaa148&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diyaaa148&layout=compact&theme=radical)  
-
-</p>
-
----
 
 ## 🌐 Connect with Me  
 
